@@ -15,5 +15,5 @@ The diffusion MRI data used in our experiments are obtained from the Human Conne
 
 we further demonstrate that the proposed network achieves optimal performance when incorporating 14 auxiliary diffusion directions, and all quantitative results reported in the paper correspond to this best-performing setting.
 <p align="center">
-  <img src="./figs/psnr_ssim_vs_aux_images.png" width="50%" />
+  <img src="./figs/psnr_ssim_vs_aux_images.png" width="70%" />
 </p>
