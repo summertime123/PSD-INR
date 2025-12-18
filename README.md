@@ -1,4 +1,4 @@
-<img width="1534" height="1270" alt="out_resulial" src="https://github.com/user-attachments/assets/eea1527b-d046-4f8e-967c-a4108b12ef05" /># PSD-INR
+# PSD-INR
 
 <p align="center">
   <img src="./figs/mask_inp1.png" width="20%" />
