@@ -20,3 +20,9 @@ we further demonstrate that the proposed network achieves optimal performance wh
 
 
 ##  fibers dirtion across different spatial scales
+<p align="center">
+  <img src="./figs/fiberTracking.png" width="70%" />
+</p>
+<p align="center">
+  <img src="./figs/aae_b1000_12bvecb0_3.5.png" width="70%" />
+</p>
