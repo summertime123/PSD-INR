@@ -1,8 +1,7 @@
 # PSD-INR
 
 <p align="center">
-  <img src="./figs/mask_inp1.png" width="22%" />
-  <img src="./figs/mask_inp2.png" width="22%" />
+  <img src="./figs/touyinyanzheng.png" width="90%" />
 </p>
 
 <p align="center">
