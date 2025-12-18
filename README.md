@@ -17,3 +17,6 @@ we further demonstrate that the proposed network achieves optimal performance wh
 <p align="center">
   <img src="./figs/psnr_ssim_vs_aux_images.png" width="70%" />
 </p>
+
+
+##  fibers dirtion across different spatial scales
