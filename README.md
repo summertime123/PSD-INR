@@ -14,3 +14,6 @@ Additionally, in the above figure，we select features at a specific point in th
 The diffusion MRI data used in our experiments are obtained from the Human Connectome Project (HCP), where diffusion gradient directions are accurately calibrated,therefore, the issue of inaccurate diffusion gradient directions does not arise in our experimental setup.
 
 we further demonstrate that the proposed network achieves optimal performance when incorporating 14 auxiliary diffusion directions, and all quantitative results reported in the paper correspond to this best-performing setting.
+<p align="center">
+  <img src="./figs/psnr_ssim_vs_aux_images.png" width="50%" />
+</p>
