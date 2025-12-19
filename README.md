@@ -23,13 +23,15 @@ we further demonstrate that the proposed network achieves optimal performance wh
 <p align="center">
   <img src="./figs/fiberTracking.png" width="70%" />
 </p>
+The figure above illustrates the reconstructed corticospinal tract obtained by different methods at scales ×2.0 and ×3.5. It can be observed that our method (OURS) consistently reconstructs more abundant and finer fiber bundles across all scales, with the advantage becoming more pronounced as the upscaling factor increases.
 <!-- <p align="center">
   <img src="./figs/aae_b1000_12bvecb0_3.5.png" width="70%" />
 </p> -->
 <p align="center">
-  <img src="./figs/comparison_grid.png" width="70%" />
+  <img src="./figs/comparison_grid.png" width="60%" />
 </p>
+The figure above visualizes the principal fiber directions in the same region of interest at different image resolutions. It can be observed that higher resolutions reveal more detailed and finer fiber orientations.
 <p align="center">
   <img src="./figs/ditreslut_12bvec_diff_scale.png" width="70%" />
 </p>
-
+The figure above presents the DTI-derived parameters FA and MD at different scales, together with the corresponding visualizations of fiber orientations and whole-brain tractography. It can be observed that, as the image resolution increases, the estimated FA and MD become more accurate and exhibit richer structural details. Meanwhile, the fiber orientations appear finer and more coherent, and the resulting tractography is notably improved.
