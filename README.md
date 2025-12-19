@@ -35,3 +35,5 @@ The figure above visualizes the principal fiber directions in the same region of
   <img src="./figs/ditreslut_12bvec_diff_scale.png" width="70%" />
 </p>
 The figure above presents the DTI-derived parameters FA and MD at different scales, together with the corresponding visualizations of fiber orientations and whole-brain tractography. It can be observed that, as the image resolution increases, the estimated FA and MD become more accurate and exhibit richer structural details. Meanwhile, the fiber orientations appear finer and more coherent, and the resulting tractography is notably improved.
+
+It is worth noting that only results at a few representative scales are shown here, while our network is capable of producing reconstructions at arbitrary resolutions.
