@@ -29,4 +29,7 @@ we further demonstrate that the proposed network achieves optimal performance wh
 <p align="center">
   <img src="./figs/diffscalefiberzhu.png" width="70%" />
 </p>
+<p align="center">
+  <img src="./figs/ditreslut_12bvec_diff_scale.png" width="70%" />
+</p>
 
